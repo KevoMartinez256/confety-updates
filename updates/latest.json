@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "build_number": 55,
+  "download_url": "",
+  "release_notes": [
+    "Las búsquedas amplias ya no muestran avisos flotantes repetidos; la orientación aparece debajo del buscador.",
+    "Marcas utiliza tarjetas con avatar y fecha, como Clientes y Proveedores.",
+    "Menú de reportes con categorías de tamaño fijo, sin saltos al seleccionar ni al entrar o salir de Mercado Libre.",
+    "Búsqueda automática al escribir en compras, apartados, cotizaciones, vales, devoluciones y créditos.",
+    "La X limpia y actualiza inmediatamente. Pausa de 250 ms para agrupar pulsaciones y evitar solicitudes redundantes.",
+    "Conserva búsqueda por producto y marca, autorización, impresión personalizable y mejoras previas."
+  ],
+  "published_at": "2026-10-20T03:07:18.479Z",
+  "installer_name": "confety_world_1.0.0_setup.exe",
+  "size_bytes": 17204257,
+  "sha256": "4b38e6e4a2b5731f87048bb80f40f70943eefc4ff92de8c897402122b67845ff",
+  "platforms": {
+    "windows": {
+      "version": "1.0.0",
+      "build_number": 55,
+      "download_url": "",
+      "release_notes": [
+        "Las búsquedas amplias ya no muestran avisos flotantes repetidos; la orientación aparece debajo del buscador.",
+        "Marcas utiliza tarjetas con avatar y fecha, como Clientes y Proveedores.",
+        "Menú de reportes con categorías de tamaño fijo, sin saltos al seleccionar ni al entrar o salir de Mercado Libre.",
+        "Búsqueda automática al escribir en compras, apartados, cotizaciones, vales, devoluciones y créditos.",
+        "La X limpia y actualiza inmediatamente. Pausa de 250 ms para agrupar pulsaciones y evitar solicitudes redundantes.",
+        "Conserva búsqueda por producto y marca, autorización, impresión personalizable y mejoras previas."
+      ],
+      "published_at": "2026-10-20T03:07:18.479Z",
+      "installer_name": "confety_world_1.0.0_setup.exe",
+      "size_bytes": 17204257,
+      "sha256": "4b38e6e4a2b5731f87048bb80f40f70943eefc4ff92de8c897402122b67845ff"
+    },
+    "android": {
+      "version": "1.0.0",
+      "build_number": 55,
+      "download_url": "",
+      "release_notes": [
+        "Las búsquedas amplias ya no muestran avisos flotantes repetidos; la orientación aparece debajo del buscador.",
+        "Marcas utiliza tarjetas con avatar y fecha, como Clientes y Proveedores.",
+        "Menú de reportes con categorías de tamaño fijo, sin saltos al seleccionar ni al entrar o salir de Mercado Libre.",
+        "Búsqueda automática al escribir en compras, apartados, cotizaciones, vales, devoluciones y créditos.",
+        "La X limpia y actualiza inmediatamente. Pausa de 250 ms para agrupar pulsaciones y evitar solicitudes redundantes.",
+        "Conserva búsqueda por producto y marca, autorización, impresión personalizable y mejoras previas."
+      ],
+      "published_at": "2026-10-20T03:07:18.834Z",
+      "installer_name": "confety_world_android_1.0.0.apk",
+      "size_bytes": 117301242,
+      "sha256": "8ce7b953dd9254edd855935a25b8443fb4a5ee50f614743bfd26d5ccb1140168"
+    }
+  }
+}
